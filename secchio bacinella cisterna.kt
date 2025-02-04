@@ -70,7 +70,7 @@ fun main(args: Array<String>) {
             }
         }
     }
-    println("digita fine")
+    println("digita the fine")
     var fine: String
 
     fine = input.nextLine()
